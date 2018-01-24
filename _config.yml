@@ -9,16 +9,15 @@ plugins: [jekyll-paginate]
 port: 3000
 safe: true
 
-
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://kiranbollepalli9.github.io/
+baseurl: /kiran/
+title: Kiran Bollepalli
+author: Kiran Bollepalli
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: myjekyll/sustain # username
+email: kiranbollepalli@gmail.com
+github: myjekyll/kiranbollepalli9 # username
 twitter: username
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
