@@ -11,7 +11,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://kiranbollepalli9.github.io/
-baseurl: /kiran/
+#baseurl: /kiran/
 title: Kiran Bollepalli
 author: Kiran Bollepalli
 description: Personal blog and resume
